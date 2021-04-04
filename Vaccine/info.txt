@@ -1,0 +1,7 @@
+OOSE MINI PROJECT - KJSCE 2021
+
+Project: Vaccine Distribution and Tracking System
+
+Members:
+1. Jill Shah (1814055)
+2. Gopalkrishna Waja (1814062)
